@@ -1,0 +1,22 @@
+#root {
+  text-align: center;
+  font-family: "Geist Mono", monospace;
+}
+
+button{
+  background-color:cadetblue;
+  height: 30px;
+  width: 200px;
+  border: none;
+  border-radius: 3px;
+  margin-left: 2px;
+}
+
+.info{
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  flex-direction: column;
+  margin-top: 70px;
+}
