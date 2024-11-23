@@ -1,0 +1,15 @@
+.container{
+  font-family: "Geist Mono", monospace;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.container h1{
+  font-weight: bold;
+}
+
+.display{
+  margin-bottom: 20px;
+}
