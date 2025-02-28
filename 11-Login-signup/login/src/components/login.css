@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(#2A00B7,#42006C);
+}
+
+.container{
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 200PX  auto;
+}
